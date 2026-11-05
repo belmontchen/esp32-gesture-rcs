@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+# 抽帧中间结果，可由 make_dataset.py 重新生成
+data/frames5/
+data/label1fps/
+data/raw_frames/
+
+# 人工打标签时的联系表
+sheet_*.jpg
+frames_sheet.jpg
+data/holdout.log

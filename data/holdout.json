@@ -1,0 +1,38 @@
+{
+  "32777379": {
+    "n": 110,
+    "acc": 0.6181818181818182,
+    "labels": {
+      "paper": 110,
+      "rock": 0,
+      "scissors": 0
+    }
+  },
+  "359b5063": {
+    "n": 50,
+    "acc": 0.9,
+    "labels": {
+      "paper": 0,
+      "rock": 0,
+      "scissors": 50
+    }
+  },
+  "a928747a": {
+    "n": 61,
+    "acc": 0.0,
+    "labels": {
+      "paper": 0,
+      "rock": 0,
+      "scissors": 61
+    }
+  },
+  "c0cfc796": {
+    "n": 69,
+    "acc": 0.463768115942029,
+    "labels": {
+      "paper": 69,
+      "rock": 0,
+      "scissors": 0
+    }
+  }
+}
